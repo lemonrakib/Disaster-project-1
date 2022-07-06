@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.main-header-banner {
+    background-image: url(picture/Banner-pic/banner.jpg);
+    background-size: cover;
+}
+
+.banner-container {
+    color: white;
+    text-align: center;
+    padding-top: 600px;
+    padding-bottom: 300px;
+}
+
+.main-header {
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+.main-header-para {
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 1.6;
+    margin-bottom: 80px;
+}
+
+.donate-btn {
+    text-decoration: none;
+    color: white;
+    background-color: orangered;
+    padding: 5px 10px;
+    font-size: 1rem;
+
+}
